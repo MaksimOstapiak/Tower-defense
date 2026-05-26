@@ -43,8 +43,4 @@ public void ToggleMute()
         SceneManager.LoadScene("GameScene"); 
     }
 
-    public void QuitGame()
-    {
-        Application.Quit();
-    }
 }
